@@ -1,6 +1,6 @@
 <h1 align="center">Abhishek Tiwari</h1>
 <p align="center">
-  Building clean web experiences • Problem solver • Hackathon enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=18&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Real-Time+Systems;React+%7C+Node+%7C+AWS" />
 </p>
 
 ---
