@@ -17,7 +17,7 @@
 
 ## Tech Stack
 
-react · node.js · tilwindcss · 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,node.js)](https://skillicons.dev)
 ---
 
 
