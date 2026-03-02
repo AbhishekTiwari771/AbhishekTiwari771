@@ -1,17 +1,25 @@
 <h1 align="center">Abhishek Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Hackathon+Builder;React+%7C+Node+%7C+AWS;Building+Scalable+Web+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Real-Time+Systems;React+%7C+Node+%7C+AWS;Hackathon+Builder" />
 </p>
 
 ---
 
-react · tailwind · node · aws  
-
-clean ui  
-real-time architecture  
-performance-first development  
+I build scalable web systems with clean, minimal interfaces.
 
 ---
 
-linkedin · portfolio · email
+react · tailwind · node · socket.io · aws  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+<p align="center">
+  linkedin · portfolio · email
+</p>
