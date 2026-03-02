@@ -17,7 +17,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,mongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mongodb,vscode,discord,git,npm,bash,aws,ai)](https://skillicons.dev)
 ---
 
 
