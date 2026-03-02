@@ -1,29 +1,21 @@
-<h1 align="center">hey, i'm abhishek 👋</h1>
+<h1 align="center">abhishek tiwari</h1>
 
 <p align="center">
-  full-stack developer • hackathon builder • ui lover
+  full-stack developer — building in the dark.
 </p>
 
 ---
 
-### 🧠 currently
-building things with react, tailwind & node  
-learning cloud & system design  
+react / tailwind / node / socket.io / aws  
 
 ---
 
-### ⚒ stack
-react • vite • tailwind • node • express • socket.io • aws  
+designing silent interfaces.  
+engineering scalable systems.  
+shipping without noise.  
 
 ---
 
-### 📌 focus
-clean UI  
-real-time apps  
-problem solving  
-
----
-
-### 📬 reach me
-linkedin → your-link  
-portfolio → your-link  
+<p align="center">
+  linkedin · portfolio · email
+</p>
