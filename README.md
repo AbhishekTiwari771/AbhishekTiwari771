@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "_.gif"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
