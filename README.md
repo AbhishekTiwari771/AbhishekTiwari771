@@ -16,8 +16,11 @@
 ---
 
 ## Tech Stack
-
+<p align="center">
+  <a href="https://skillicons.dev">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mongodb,vscode,discord,git,npm,bash,aws,ai)](https://skillicons.dev)
+      </a>
+</p>
 ---
 
 
