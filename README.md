@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=18&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Real-Time+Systems;React+%7C+Node+%7C+AWS" />
 </p>
 
----
 
 ## About Me
 
@@ -13,7 +12,6 @@
 - 🏆 Hackathon participant & team collaborator
 - 🌱 Currently exploring advanced React patterns & system design
 
----
 
 ## Tech Stack
 <p align="center">
@@ -29,14 +27,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=ocean-dark" />
 </p>
 
----
 
 ## Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/abhishek-tiwari77
 - 🌐 Portfolio: --
 
----
 
 <p align="center">
   <i>“Build. Break. Learn. Repeat.”</i>
