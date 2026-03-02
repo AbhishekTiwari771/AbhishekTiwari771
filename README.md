@@ -35,24 +35,12 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 AI Resume Builder
-Smart resume generator with ATS-friendly formatting.
-
-### 🔹 Hidden Talent Recruitment Platform
-Real-time candidate screening platform built during hackathon.
-
-### 🔹 Fee Payment Website
-Secure and user-friendly student fee payment system.
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&theme=ocean-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=ocean-dark" />
 </p>
 
 ---
