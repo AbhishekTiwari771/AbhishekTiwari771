@@ -1,21 +1,69 @@
-<h1 align="center">abhishek tiwari</h1>
-
+<h1 align="center">Abhishek Tiwari</h1>
 <p align="center">
-  full-stack developer — building in the dark.
+  Building clean web experiences • Problem solver 
 </p>
 
 ---
 
-react / tailwind / node / socket.io / aws  
+## 👨‍💻 About Me
+
+- 🎓 CSE Student
+- 🚀 Passionate about building scalable web apps
+- 💡 Interested in UI/UX, real-time systems & cloud
+- 🏆 Hackathon participant & team collaborator
+- 🌱 Currently exploring advanced React patterns & system design
 
 ---
 
-designing silent interfaces.  
-engineering scalable systems.  
-shipping without noise.  
+## 🛠 Tech Stack
+
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- JavaScript (ES6+)
+
+**Backend**
+- Node.js
+- Express
+- Socket.io
+
+**Cloud & Tools**
+- AWS
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Resume Builder
+Smart resume generator with ATS-friendly formatting.
+
+### 🔹 Hidden Talent Recruitment Platform
+Real-time candidate screening platform built during hackathon.
+
+### 🔹 Fee Payment Website
+Secure and user-friendly student fee payment system.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=transparent" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/abhishek-tiwari77
+- 🌐 Portfolio: ------
 
 ---
 
 <p align="center">
-  linkedin · portfolio · email
+  <i>“Build. Break. Learn. Repeat.”</i>
 </p>
