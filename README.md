@@ -1,45 +1,75 @@
-<h1 align="center">Hey, I'm Abhishek Tiwari <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h1>
+<img src = "githubanner.JPG"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=18&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Real-Time+Systems;React+%7C+Node+%7C+AWS" />
+  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/glorffindel" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a>
 </p>
 
----
 
-**About Me**
+<br>
 
-I'm Abhishek, a web developer and designer based in India. I like building clean UI and interfaces and keeping things simple.
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-**Currently, I am focused on:**
-- React Components, Libraries, Tailwind, Typescript.
-- UI components with subtle motion.
-- Small, thoughtful projects with polish.
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
----
-
-**Tech Stack**
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,mongodb,vscode,discord,git,npm,bash,aws,ai"/>
-      </a>
+<p>
+  Hello There! <em><b> I'm Abhishek Tiwari </b></em>, a Computer Science student. I enjoy learning new technologies and problem. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Tailwind and more.
 </p>
 
----
 
-**GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=ocean-dark" />
-</p>
-
----
-
-**Let's Connect**
-
-- 💼 LinkedIn: www.linkedin.com/in/abhishek-tiwari77
-- 🌐 Portfolio: --
-
----
+<br/>
 
 <p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
+
+<br/>
+<br/>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+
+<div align = "center"> 
+
+ ![](https://nirzak-streak-stats.vercel.app/?user=AbhishekTiwari771&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekTiwari771&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
