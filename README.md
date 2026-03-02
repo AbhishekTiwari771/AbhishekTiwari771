@@ -54,3 +54,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekTiwari771&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
+
+<p align="center">
+  <a href="www.linkedin.com/in/abhishek-tiwari77" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://leetcode.com/u/abhishektiwari12/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
