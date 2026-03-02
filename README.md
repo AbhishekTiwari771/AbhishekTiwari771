@@ -15,7 +15,7 @@ react · tailwind · node · socket.io · aws
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
