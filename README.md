@@ -51,8 +51,8 @@ Secure and user-friendly student fee payment system.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&theme=transparent_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=transparent_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari771&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari771&theme=transparent" />
 </p>
 
 ---
