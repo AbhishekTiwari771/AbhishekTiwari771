@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/abhishek-tiwari77" target="_blank">
+  <a href="https://linkedin.com/in/abhishek-tiwari77" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://leetcode.com/u/abhishektiwari12/" target="_blank">
