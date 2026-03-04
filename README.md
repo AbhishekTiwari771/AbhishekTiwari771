@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="gif.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="m.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
